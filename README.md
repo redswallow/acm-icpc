@@ -1,4 +1,4 @@
-vijos
+acm-icpc
 =====
 
-My vijos online judge solutions
+My online judge solutions (poj, vijos, uva)
